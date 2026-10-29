@@ -274,3 +274,6 @@ This repository documents an educational and engineering project. Technology lib
 VLSI, Verilog HDL, 32-bit ALU, RTL-to-GDSII, Cadence Genus, Cadence Innovus, ASIC Design, Logic Synthesis, Static Timing Analysis, PPA Optimization, Physical Design, Semiconductor Engineering
 
 <img width="1362" height="716" alt="ALU_32_90nm" src="https://github.com/user-attachments/assets/b0a096ed-b9d0-47d7-bbd6-e4781e9a75cf" />
+
+<img width="602" height="522" alt="ALU_32_90nm (3)" src="https://github.com/user-attachments/assets/cccf4796-6d05-4e95-8433-ca6b492d2ec3" />
+
