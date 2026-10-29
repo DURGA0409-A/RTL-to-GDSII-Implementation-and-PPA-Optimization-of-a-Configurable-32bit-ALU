@@ -1,5 +1,4 @@
 # RTL-to-GDSII-Implementation-and-PPA-Optimization-of-a-Configurable-32bit-ALU
-# RTL-to-GDSII Implementation and PPA Optimization of a Configurable 32-bit ALU
 
 ## Project Overview
 
